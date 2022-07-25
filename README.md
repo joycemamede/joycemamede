@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <a href="https://github.com/joycemamede">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joycemamede&show_icons=true&theme=dracula>
+</div>
