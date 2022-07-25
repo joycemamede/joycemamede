@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <!--
-**joycemamede/joycemamede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,5 +14,6 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/joycemamede">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joycemamede&show_icons=true&theme=dracula>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joycemamede&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycemamede&layout=compact">
 </div>
