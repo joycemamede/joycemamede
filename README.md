@@ -19,6 +19,8 @@
   </a>
 </div>
 
+##
+
 <div>
   ![Snake animation](https://github.com/joycemamede/joycemamede/blob/output/github-contribution-grid-snake.svg)
 </div>
