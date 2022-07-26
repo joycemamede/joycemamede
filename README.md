@@ -6,7 +6,10 @@
 <p align="center">Hi, I'm Joyce!</br>
 I'm brand new to the programming world but I'm pretty excited about the path ahead of me 🚀
 </p>
-</br>
+<div align="center">
+  <img src="https://github.com/joycemamede/joycemamede/blob/output/github-contribution-grid-snake.svg"/>
+  <!-- ![Snake animation](https://github.com/joycemamede/joycemamede/blob/output/github-contribution-grid-snake.svg) not showing -->
+</div>
 
 <h2 align="center">My GitHub Stats</h2>
  
@@ -17,7 +20,4 @@ I'm brand new to the programming world but I'm pretty excited about the path ahe
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github.com/joycemamede/joycemamede/blob/output/github-contribution-grid-snake.svg"/>
-  <!-- ![Snake animation](https://github.com/joycemamede/joycemamede/blob/output/github-contribution-grid-snake.svg) not showing -->
-</div>
+
