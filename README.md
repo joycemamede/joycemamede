@@ -17,9 +17,7 @@ I'm brand new to the programming world but I'm pretty excited about the path ahe
   </a>
 </div>
 
-##
-
-<div>
+<div align="center">
   <img src="https://github.com/joycemamede/joycemamede/blob/output/github-contribution-grid-snake.svg"/>
   <!-- ![Snake animation](https://github.com/joycemamede/joycemamede/blob/output/github-contribution-grid-snake.svg) not showing -->
 </div>
