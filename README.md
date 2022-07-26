@@ -1,5 +1,5 @@
 <div>
-  <img height="360em" src:"https://github.com/joycemamede/joycemamede/blob/main/img/banner.png"/>
+  <img src="https://assets1.lottiefiles.com/packages/lf20_enlvakcq.json"/>
 </div>
 
 <!--
