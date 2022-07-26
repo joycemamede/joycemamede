@@ -1,4 +1,4 @@
-### Hi there 👋
+![greeting banner](https://github.com/joycemamede/joycemamede/blob/main/img/banner.png)
 
 <!--
 
