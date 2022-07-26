@@ -1,4 +1,6 @@
-![greeting banner](https://github.com/joycemamede/joycemamede/blob/main/img/banner.png)
+<div>
+  <img height="360em" src:"https://github.com/joycemamede/joycemamede/blob/main/img/banner.png"/>
+</div>
 
 <!--
 
